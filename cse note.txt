@@ -1,0 +1,4 @@
+onek gulo operator agy thakle kontar kaj agey hobe shetake bole precedence. 
+associativity ki - gun vag duitai left associativity .
+mane hocche bam pash theke kaj korte korte ashbe .
+               
